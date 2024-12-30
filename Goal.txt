@@ -1,0 +1,2 @@
+The idea for my AI project is to A: figure out what factors increase checkouts/circulation rates using regression analysis. B: use machine learning/artifical intelligence to forecast circulation numbers or visitor counts to in order to set better targets
+or goals for a given KDL branch. 
